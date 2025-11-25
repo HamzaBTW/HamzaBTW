@@ -1,0 +1,12 @@
+Notable Projects
+Arc Pay (AI-content Payment Agent) (https://github.com/HamzaBTW/Smart-Contract-Deployment-for-Arc-AI-Agent)      November 2025
+Developed an AI-powered content wallet automating USDC micro-payments on Arc’s Layer-1 blockchain using
+TypeScript and Cloudflare Workers AI. Integrated OpenAI, ElevenLabs, and Circle SDKs to enable real-time
+creator payments with sub-second finality and personalized content recommendations.
+
+AWS RAG AI (No Repo Avaliable to view)          September 2025
+Built a RAG chatbot using AWS Bedrock, S3, and OpenSearch with vector embeddings, enabling contextaware responses through Llama 3.3 70B integration. Developed an AI knowledge base with 300-token chunking and Titan embeddings.
+
+Cricket Score Predictor  (https://github.com/HamzaBTW/Cricket-Match-Predictor)         August 2025
+Used XGBoost, Pandas, and NumPy to predict cricket match scores with 87.3% accuracy. Implemented
+continuous deployment workflow using Linux shell scripting and SSH certificate authentication.
