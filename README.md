@@ -10,12 +10,6 @@
   Multidisciplinary builder passionate about artificial intelligence and machine learning. Always learning. 🤟🏻
 </p>
 
-## What I'm Working On
-
-- 🎓 Learning AWS Machine Learning
-- 🤖 Building AI/ML projects
-- 💻 Exploring full-stack development
-
 ## Technologies & Tools
 
 <img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" />
