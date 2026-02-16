@@ -12,9 +12,8 @@
 
 ## What I'm Working On
 
-- 🎓 Learning AWS Machine Learning
+- 🎓 Contributing to Open-Source Projects
 - 🤖 Building AI/ML projects
-- 💻 Exploring full-stack development
 
 ## Technologies & Tools
 
