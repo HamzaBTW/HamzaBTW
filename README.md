@@ -3,18 +3,14 @@
 </h1>
 
 <p align="center">
-  AI/ML Student based in Dubai 🇦🇪
+  CS Student based in Dubai 🇦🇪
 </p>
 
-<p align="center">
-  Multidisciplinary builder passionate about artificial intelligence and machine learning. Always learning. 🤟🏻
-</p>
 
 ## What I'm Working On
 
-- 🎓 Learning AWS Machine Learning
-- 🤖 Building AI/ML projects
-- 💻 Exploring full-stack development
+- Deep Learning Theory (NTK, Matrix Factorization)
+- Building Projects
 
 ## Technologies & Tools
 
@@ -34,7 +30,6 @@
 ### Web Development
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
@@ -50,14 +45,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white&style=for-the-badge)
 
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 ### Databases
@@ -75,30 +68,28 @@
 
 ## 💼 Featured Projects
 
-### [Arc Pay - AI Content Payment Agent](https://github.com/HamzaBTW/Smart-Contract-Deployment-for-Arc-AI-Agent)
+### [Optimum-Intel Tiny Model Development] (https://github.com/HamzaBTW/optimum-intel)
+
+<p align="center">
+    <img src="https://huggingface.co/datasets/optimum/documentation-images/resolve/main/intel/logo/hf_intel_logo.png" />
+</p>
+
+### Achieved 98.5% size reduction (130MB -> 1.96MB).
+-  **Built with:** Python, Pytorch, Transformers, SafeTensors, OpenVINO, ONNX
+-  **Key features:** Reduced vocabulary (151666, 1000) through tokenizer compression while preserving tokenization
+integrity
+-  January - February 2026
+
+### [Arc Pay - AI Content Payment Agent](https://lablab.ai/ai-hackathons/ai-agents-arc-usdc/hybridy/ai-content-payment-agent)
 
 <img src="img/Arc-Pay.png" alt="Arc Pay" width="600"/>
 
 Developed an AI-powered content wallet automating USDC micro-payments on Arc's Layer-1 blockchain using TypeScript and Cloudflare Workers AI.
-- 🔧 **Built with:** TypeScript, Cloudflare Workers AI, OpenAI, ElevenLabs, Circle SDKs
-- ⭐ **Key features:** Real-time creator payments, Sub-second finality, Personalized content recommendations
-- 📅 November 2025
+-  **Built with:** TypeScript, Cloudflare Workers AI, OpenAI, ElevenLabs, Circle SDKs
+-  **Key features:** Real-time creator payments, Sub-second finality, Personalized content recommendations
+-  November 2025
 
-### AWS RAG AI Chatbot
-Built a RAG chatbot using AWS Bedrock, S3, and OpenSearch with vector embeddings, enabling context-aware responses through Llama 3.3 70B integration.
-- 🔧 **Built with:** AWS Bedrock, S3, OpenSearch, Llama 3.3 70B
-- ⭐ **Key features:** AI knowledge base, 300-token chunking, Titan embeddings
-- 📅 September 2025
-
-### [Cricket Score Predictor](https://github.com/HamzaBTW/Cricket-Match-Predictor)
-
-<img src="img/testcricpredict_logo.png" alt="Cricket Score Predictor" width="600"/>
-
-Used XGBoost, Pandas, and NumPy to predict cricket match scores with 87.3% accuracy.
-- 🔧 **Built with:** Python, XGBoost, Pandas, NumPy
-- ⭐ **Key features:** 87.3% accuracy, Continuous deployment workflow, SSH authentication
-- 📅 August 2025
-
+---
 ## Get In Touch
 
 📧 [hamzasajid4815@gmail.com](mailto:hamzasajid4815@gmail.com)
