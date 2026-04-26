@@ -9,8 +9,8 @@
 
 ## What I'm Working On
 
-- Deep Learning Theory (NTK, Matrix Factorization)
-- Building Projects
+- ***Deep Learning Theory (NTK, Matrix Factorization)***
+- ***Building Projects***
 
 ## Technologies & Tools
 
